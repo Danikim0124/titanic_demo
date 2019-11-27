@@ -12,6 +12,7 @@ To run this notebook interactively:
 3. Navigate to the directory where you unzipped or cloned the repo and create a virtual environment with `virtualenv env`.
 4. Activate the environment with `source env/bin/activate`
 5. Install the required dependencies with `pip install -r requirements.txt`.
-6. Execute `ipython notebook` from the command line or terminal.
-7. Click on `Titanic.ipynb` on the IPython Notebook dasboard and enjoy!
-8. When you're done deactivate the virtual environment with `deactivate`.
+6. To explore jupyter notebook, execute `jupyter notebook` from the command line or terminal.
+7. Go to Jupyter Notebook foler and Click on `titanic_demo.ipynb` and enjoy!
+8. When you run titanic_model.py in your terminal, results.csv file will be created and can submit it in kaggle competition (score=0.81339)
+9. When you're done deactivate the virtual environment with `deactivate`.
